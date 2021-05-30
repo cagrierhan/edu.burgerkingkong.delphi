@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/19 21:30:04.000.813,=D:\RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2021/05/22 18:28:49.000.566,=D:\RAD Studio\Unit1.pas</Transaction>
+    <Transaction>2021/05/22 18:31:19.000.979,=D:\RAD Studio\Unit3.pas</Transaction>
+    <Transaction>2021/05/22 18:34:32.000.775,=D:\RAD Studio\Unit4.pas</Transaction>
+    <Transaction>2021/05/22 18:34:43.000.929,=D:\RAD Studio\Unit5.pas</Transaction>
+    <Transaction>2021/05/22 18:35:59.000.469,D:\RAD Studio\Unit1.dfm=D:\RAD Studio\BurgerKingKong\Unit1.dfm</Transaction>
+    <Transaction>2021/05/22 18:35:59.000.469,D:\RAD Studio\Unit1.pas=D:\RAD Studio\BurgerKingKong\Unit1.pas</Transaction>
+    <Transaction>2021/05/22 18:36:32.000.585,D:\RAD Studio\Unit3.dfm=D:\RAD Studio\BurgerKingKong\Unit3.dfm</Transaction>
+    <Transaction>2021/05/22 18:36:32.000.585,D:\RAD Studio\Unit3.pas=D:\RAD Studio\BurgerKingKong\Unit3.pas</Transaction>
+    <Transaction>2021/05/22 18:36:36.000.392,D:\RAD Studio\Unit4.dfm=D:\RAD Studio\BurgerKingKong\Unit4.dfm</Transaction>
+    <Transaction>2021/05/22 18:36:36.000.392,D:\RAD Studio\Unit4.pas=D:\RAD Studio\BurgerKingKong\Unit4.pas</Transaction>
+    <Transaction>2021/05/22 18:36:40.000.427,D:\RAD Studio\Unit5.pas=D:\RAD Studio\BurgerKingKong\Unit5.pas</Transaction>
+    <Transaction>2021/05/22 18:36:40.000.427,D:\RAD Studio\Unit5.dfm=D:\RAD Studio\BurgerKingKong\Unit5.dfm</Transaction>
+    <Transaction>2021/05/22 18:36:45.000.116,D:\RAD Studio\Project1.dproj=D:\RAD Studio\BurgerKingKong\Project1.dproj</Transaction>
+    <Transaction>2021/05/22 19:59:10.000.876,=D:\RAD Studio\BurgerKingKong\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,22 @@
+﻿program Project1;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {Giriş},
+  Unit3 in 'Unit3.pas' {Form3},
+  Unit4 in 'Unit4.pas' {Kullanıcılar},
+  Unit5 in 'Unit5.pas' {Siparişler},
+  Unit2 in 'Unit2.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TGiriş, Giriş);
+  Application.CreateForm(TForm3, Form3);
+  Application.CreateForm(TKullanıcılar, Kullanıcılar);
+  Application.CreateForm(TSiparişler, Siparişler);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.

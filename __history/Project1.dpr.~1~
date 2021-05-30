@@ -1,0 +1,20 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {Giri?},
+  Unit3 in 'Unit3.pas' {Form3},
+  Unit4 in 'Unit4.pas' {Kullan?c?lar},
+  Unit5 in 'Unit5.pas' {Sipari?ler};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TGiri?, Giri?);
+  Application.CreateForm(TForm3, Form3);
+  Application.CreateForm(TKullan?c?lar, Kullan?c?lar);
+  Application.CreateForm(TSipari?ler, Sipari?ler);
+  Application.Run;
+end.
